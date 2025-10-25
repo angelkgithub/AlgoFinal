@@ -1,0 +1,9 @@
+room_name,room_type,capacity,available_days,start_time,end_time,delivery_mode
+Room203,Lecture,40,"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",7:00,21:00,Physical
+Room204,Lecture,40,"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",7:00,21:00,Physical
+ComLab4,Lab,40,"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",7:00,21:00,Physical
+ComLab5,Lab,40,"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",7:00,21:00,Physical
+OnlineRoom1,Lecture,100,"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",7:00,21:00,Online
+OnlineRoom2,Lecture,100,"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",7:00,21:00,Online
+OnlineLab1,Lab,100,"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",7:00,21:00,Online
+OnlineLab2,Lab,100,"Monday,Tuesday,Wednesday,Thursday,Friday,Saturday",7:00,21:00,Online
